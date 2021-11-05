@@ -22,7 +22,7 @@ SO THAT our site is optimized for search engines
 
 ```
 GIVEN a webpage that meets accessibility standards
-
+## Done
 WHEN I view the source code
 THEN I find semantic HTML elements
 ## Done
@@ -31,7 +31,7 @@ THEN I find that the elements follow a logical structure independent of styling 
 ## Done
 WHEN I view the icon and image elements
 THEN I find accessible alt attributes
-
+## Done
 WHEN I view the heading attributes
 THEN I find that they fall in sequential order
 ## Done
