@@ -14,3 +14,5 @@ Link to deployed application: https://chance-crawford.github.io/Horiseon-Social-
 
 ## Usage
 Links at the top are clickable. Brings you down to the designated section.
+
+![links in header](./docs/assets/images/links.PNG)
