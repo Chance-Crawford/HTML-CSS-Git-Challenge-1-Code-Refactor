@@ -30,6 +30,7 @@ WHEN I view the icon and image elements
 THEN I find accessible alt attributes
 WHEN I view the heading attributes
 THEN I find that they fall in sequential order
+## Done
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
